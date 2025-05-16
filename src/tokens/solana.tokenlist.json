@@ -1,26 +1,16 @@
 {
-  "name": "Solana Token List (ROMPO fork)",
-  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/solana/logo.png",
-  "tags": {
-    "utility-token": {
-      "name": "Utility Token",
-      "description": "Utility tokens on Solana"
-    },
-    "community": {
-      "name": "Community",
-      "description": "Community driven tokens"
-    }
-  },
-  "timestamp": "2025-05-16T00:00:00+00:00",
+  "name": "ROMPO Token List",
   "tokens": [
     {
       "chainId": 101,
-      "address": "drpAgdPzFgch3j6FGbn5LtZYiJ2Xt55owoJqaJVYeUD",
+      "address": "6YofYgZmGxPBnR2M9i4SJwvAHWCqWnHKrugckKvZ5QLW",
       "symbol": "ROMPO",
       "name": "ROMPO",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/RompoToken/rompo-token-metadata/main/assets/solana/drpAgdPzFgch3j6FGbn5LtZYiJ2Xt55owoJqaJVYeUD/logo.png",
-      "tags": ["utility-token", "community"]
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/RompoToken/rompo-token-list/main/assets/solana/6YofYgZmGxPBnR2M9i4SJwvAHWCqWnHKrugckKvZ5QLW/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ]
 }
